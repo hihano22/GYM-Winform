@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IXt6RFFWrA6L0VmB3Mgi4nTzsqN2bpAatGcpfkga27fp1O0OjBadxL3xHJA7RnHY77pbMg1jm8Ozhxu5XX/BjQ==",
+  "dgSpecHash": "I3VhQGSZlf/bit4eGPhfXcyZD/dVrfuMoBvy0HFnPriOfEwAq7zPuSH0pYj/06gOaVt7mY0FqbaqSx73YlXjPg==",
   "success": true,
-  "projectFilePath": "E:\\Hocky_2nam4\\Đảm bảo chất lượng pm\\DEMO\\GymManagement\\GymManagement\\GymManagement.csproj",
+  "projectFilePath": "E:\\Hocky_2nam4\\Đảm bảo chất lượng pm\\DEMO\\GymManagement\\GYM-Winform\\GymManagement\\GymManagement.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
