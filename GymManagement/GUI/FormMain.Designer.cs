@@ -743,7 +743,7 @@
             this.dgvTB.RowTemplate.Height = 29;
             this.dgvTB.Size = new System.Drawing.Size(870, 167);
             this.dgvTB.TabIndex = 39;
-            //this.dgvTB.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvTB_CellClick);
+            this.dgvTB.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvTB_CellClick);
             // 
             // btnSearchTB
             // 
@@ -756,7 +756,7 @@
             this.btnSearchTB.Size = new System.Drawing.Size(43, 31);
             this.btnSearchTB.TabIndex = 37;
             this.btnSearchTB.UseVisualStyleBackColor = false;
-            //this.btnSearchTB.Click += new System.EventHandler(this.btnSearchTB_Click);
+            this.btnSearchTB.Click += new System.EventHandler(this.btnSearchTB_Click);
             // 
             // groupBox6
             // 
@@ -778,7 +778,7 @@
             this.btnXoaTB.TabIndex = 2;
             this.btnXoaTB.Text = "Xóa";
             this.btnXoaTB.UseVisualStyleBackColor = true;
-            //this.btnXoaTB.Click += new System.EventHandler(this.btnXoaTB_Click);
+            this.btnXoaTB.Click += new System.EventHandler(this.btnXoaTB_Click);
             // 
             // btnSuaTB
             // 
@@ -788,7 +788,7 @@
             this.btnSuaTB.TabIndex = 1;
             this.btnSuaTB.Text = "Sửa";
             this.btnSuaTB.UseVisualStyleBackColor = true;
-            //this.btnSuaTB.Click += new System.EventHandler(this.btnSuaTB_Click);
+            this.btnSuaTB.Click += new System.EventHandler(this.btnSuaTB_Click);
             // 
             // btnThemTB
             // 
@@ -798,7 +798,7 @@
             this.btnThemTB.TabIndex = 0;
             this.btnThemTB.Text = "Thêm";
             this.btnThemTB.UseVisualStyleBackColor = true;
-            //this.btnThemTB.Click += new System.EventHandler(this.btnThemTB_Click);
+            this.btnThemTB.Click += new System.EventHandler(this.btnThemTB_Click);
             // 
             // txtSearchTB
             // 
@@ -908,7 +908,7 @@
             this.txtSluongTB.Name = "txtSluongTB";
             this.txtSluongTB.Size = new System.Drawing.Size(158, 23);
             this.txtSluongTB.TabIndex = 3;
-           // this.txtSluongTB.TextChanged += new System.EventHandler(this.txtSluongTB_TextChanged);
+            this.txtSluongTB.TextChanged += new System.EventHandler(this.txtSluongTB_TextChanged);
             // 
             // label20
             // 
