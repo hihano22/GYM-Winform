@@ -43,8 +43,8 @@ namespace GymManagement.GUI
             string _hangSanXuat = txtHsxTB.Text;
             string _tinhTrang = txtTTTB.Text;
 
-            //ThietBi _thietBi = new ThietBi(_tenTb, _loaiTb, _ngayNhap, _soLuong, _donGia, _trongLuong, _hangSanXuat, _tinhTrang);
-            //ThietBiDAO.Instance.themThietBi(_thietBi);
+            ThietBi _thietBi = new ThietBi(_tenTb, _loaiTb, _ngayNhap, _soLuong, _donGia, _trongLuong, _hangSanXuat, _tinhTrang);
+            ThietBiDAO.Instance.themThietBi(_thietBi);
         }
 
         private void btnXoaHetTB_Click(object sender, EventArgs e)
