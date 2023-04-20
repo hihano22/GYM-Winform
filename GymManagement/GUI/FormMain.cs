@@ -39,11 +39,11 @@ namespace GymManagement.GUI
             dgvSP.DataSource = SanPhamDAO.Instance.loadDataSP();
             #endregion
 
-            //#region init Thiet bi
-            //btnSuaTB.Enabled = false;
-            //btnXoaTB.Enabled = false;
-            //dgvTB.DataSource = ThietBiDAO.Instance.loadDataTB();
-            //#endregion
+            #region init Thiet bi
+            btnSuaTB.Enabled = false;
+            btnXoaTB.Enabled = false;
+            dgvTB.DataSource = ThietBiDAO.Instance.loadDataTB();
+            #endregion
         }
 
         public bool IsNumber(string pText)
@@ -206,76 +206,76 @@ namespace GymManagement.GUI
         }
         #endregion
 
-        //#region Thiet bi
+        #region Thiet bi
 
-        //private void txtSluongTB_TextChanged(object sender, EventArgs e)
-        //{
-        //    if (IsNumber(txtSluongTB.Text) == false)
-        //    {
-        //        errorProvider1.SetError(txtSluongTB, "Nhập dữ liệu số!");
-        //    }
-        //    else if (txtSluongTB.Text.Length > 10)
-        //    {
-        //        errorProvider1.SetError(txtSluongTB, "Độ dài < 10");
-        //    }
-        //    else
-        //    {
-        //        errorProvider1.Clear();
-        //    }
-        //}
-        //private void btnThemTB_Click(object sender, EventArgs e)
-        //{
-        //    frmThemThietBi frmThemThietBi = new frmThemThietBi();
-        //    frmThemThietBi.ShowDialog();
-        //    dgvTB.DataSource = ThietBiDAO.Instance.loadDataTB();
-        //}
+        private void txtSluongTB_TextChanged(object sender, EventArgs e)
+        {
+            if (IsNumber(txtSluongTB.Text) == false)
+            {
+                errorProvider1.SetError(txtSluongTB, "Nhập dữ liệu số!");
+            }
+            else if (txtSluongTB.Text.Length > 10)
+            {
+                errorProvider1.SetError(txtSluongTB, "Độ dài < 10");
+            }
+            else
+            {
+                errorProvider1.Clear();
+            }
+        }
+        private void btnThemTB_Click(object sender, EventArgs e)
+        {
+            frmThemThietBi frmThemThietBi = new frmThemThietBi();
+            frmThemThietBi.ShowDialog();
+            dgvTB.DataSource = ThietBiDAO.Instance.loadDataTB();
+        }
 
-        //private void btnSuaTB_Click(object sender, EventArgs e)
-        //{
-        //    int _maTb = Int32.Parse(txtMaTB.Text);
-        //    string _tenTb = txtTenTB.Text;
-        //    string _loaiTb = txtLoaiTB.Text;
-        //    int _soLuong = Int32.Parse(txtSluongTB.Text);
-        //    string _hangSanXuat = txtHsxTb.Text;
-        //    string _tinhTrang = txtTTTB.Text;
+        private void btnSuaTB_Click(object sender, EventArgs e)
+        {
+            int _maTb = Int32.Parse(txtMaTB.Text);
+            string _tenTb = txtTenTB.Text;
+            string _loaiTb = txtLoaiTB.Text;
+            int _soLuong = Int32.Parse(txtSluongTB.Text);
+            string _hangSanXuat = txtHsxTb.Text;
+            string _tinhTrang = txtTTTB.Text;
 
-        //    ThietBi _thietBi = new ThietBi(_tenTb, _loaiTb, _soLuong, _hangSanXuat, _tinhTrang);
-        //    ThietBiDAO.Instance.suaThietBi(_maTb, _thietBi);
-        //    dgvTB.DataSource = ThietBiDAO.Instance.loadDataTB();
-        //}
+            ThietBi _thietBi = new ThietBi(_tenTb, _loaiTb, _soLuong, _hangSanXuat, _tinhTrang);
+            ThietBiDAO.Instance.suaThietBi(_maTb, _thietBi);
+            dgvTB.DataSource = ThietBiDAO.Instance.loadDataTB();
+        }
 
-        //private void btnXoaTB_Click(object sender, EventArgs e)
-        //{
-        //    int _maTb = Int32.Parse(txtMaTB.Text);
-        //    ThietBiDAO.Instance.xoaThietBi(_maTb);
-        //    dgvTB.DataSource = ThietBiDAO.Instance.loadDataTB();
-        //    txtMaTB.Text = null;
-        //    txtTenTB.Text = null;
-        //    txtLoaiTB.Text = null;
-        //    txtSluongTB.Text = null;
-        //    txtHsxTb.Text = null;
-        //    txtTTTB.Text = null;
-        //}
+        private void btnXoaTB_Click(object sender, EventArgs e)
+        {
+            int _maTb = Int32.Parse(txtMaTB.Text);
+            ThietBiDAO.Instance.xoaThietBi(_maTb);
+            dgvTB.DataSource = ThietBiDAO.Instance.loadDataTB();
+            txtMaTB.Text = null;
+            txtTenTB.Text = null;
+            txtLoaiTB.Text = null;
+            txtSluongTB.Text = null;
+            txtHsxTb.Text = null;
+            txtTTTB.Text = null;
+        }
 
-        //private void btnSearchTB_Click(object sender, EventArgs e)
-        //{
-        //    string _search = txtSearchTB.Text;
-        //    dgvTB.DataSource = ThietBiDAO.Instance.timThietBi(_search);
-        //}
+        private void btnSearchTB_Click(object sender, EventArgs e)
+        {
+            string _search = txtSearchTB.Text;
+            dgvTB.DataSource = ThietBiDAO.Instance.timThietBi(_search);
+        }
 
-        //private void dgvTB_CellClick(object sender, DataGridViewCellEventArgs e)
-        //{
-        //    btnSuaTB.Enabled = true;
-        //    btnXoaTB.Enabled = true;
-        //    txtMaTB.Text = dgvTB.Rows[e.RowIndex].Cells[0].Value.ToString();
-        //    txtTenTB.Text = dgvTB.Rows[e.RowIndex].Cells[1].Value.ToString();
-        //    txtLoaiTB.Text = dgvTB.Rows[e.RowIndex].Cells[2].Value.ToString();
-        //    txtSluongTB.Text = dgvTB.Rows[e.RowIndex].Cells[4].Value.ToString();
-        //    txtHsxTb.Text = dgvTB.Rows[e.RowIndex].Cells[7].Value.ToString();
-        //    txtTTTB.Text = dgvTB.Rows[e.RowIndex].Cells[8].Value.ToString();
-        //}
+        private void dgvTB_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+            btnSuaTB.Enabled = true;
+            btnXoaTB.Enabled = true;
+            txtMaTB.Text = dgvTB.Rows[e.RowIndex].Cells[0].Value.ToString();
+            txtTenTB.Text = dgvTB.Rows[e.RowIndex].Cells[1].Value.ToString();
+            txtLoaiTB.Text = dgvTB.Rows[e.RowIndex].Cells[2].Value.ToString();
+            txtSluongTB.Text = dgvTB.Rows[e.RowIndex].Cells[4].Value.ToString();
+            txtHsxTb.Text = dgvTB.Rows[e.RowIndex].Cells[7].Value.ToString();
+            txtTTTB.Text = dgvTB.Rows[e.RowIndex].Cells[8].Value.ToString();
+        }
 
-        //#endregion
+        #endregion
 
     }
 }
