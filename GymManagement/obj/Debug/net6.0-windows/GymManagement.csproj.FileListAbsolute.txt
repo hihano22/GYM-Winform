@@ -1,0 +1,85 @@
+E:\Hocky_1nam4\.net\QuanLyPhongGym_BC\GymManagement\GymManagement\bin\Debug\net6.0-windows\GymManagement.exe
+E:\Hocky_1nam4\.net\QuanLyPhongGym_BC\GymManagement\GymManagement\bin\Debug\net6.0-windows\GymManagement.deps.json
+E:\Hocky_1nam4\.net\QuanLyPhongGym_BC\GymManagement\GymManagement\bin\Debug\net6.0-windows\GymManagement.runtimeconfig.json
+E:\Hocky_1nam4\.net\QuanLyPhongGym_BC\GymManagement\GymManagement\bin\Debug\net6.0-windows\GymManagement.dll
+E:\Hocky_1nam4\.net\QuanLyPhongGym_BC\GymManagement\GymManagement\bin\Debug\net6.0-windows\GymManagement.pdb
+E:\Hocky_1nam4\.net\QuanLyPhongGym_BC\GymManagement\GymManagement\obj\Debug\net6.0-windows\GymManagement.csproj.AssemblyReference.cache
+E:\Hocky_1nam4\.net\QuanLyPhongGym_BC\GymManagement\GymManagement\obj\Debug\net6.0-windows\GymManagement.Form1.resources
+E:\Hocky_1nam4\.net\QuanLyPhongGym_BC\GymManagement\GymManagement\obj\Debug\net6.0-windows\GymManagement.GUI.frmMain.resources
+E:\Hocky_1nam4\.net\QuanLyPhongGym_BC\GymManagement\GymManagement\obj\Debug\net6.0-windows\GymManagement.csproj.GenerateResource.cache
+E:\Hocky_1nam4\.net\QuanLyPhongGym_BC\GymManagement\GymManagement\obj\Debug\net6.0-windows\GymManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hocky_1nam4\.net\QuanLyPhongGym_BC\GymManagement\GymManagement\obj\Debug\net6.0-windows\GymManagement.AssemblyInfoInputs.cache
+E:\Hocky_1nam4\.net\QuanLyPhongGym_BC\GymManagement\GymManagement\obj\Debug\net6.0-windows\GymManagement.AssemblyInfo.cs
+E:\Hocky_1nam4\.net\QuanLyPhongGym_BC\GymManagement\GymManagement\obj\Debug\net6.0-windows\GymManagement.csproj.CoreCompileInputs.cache
+E:\Hocky_1nam4\.net\QuanLyPhongGym_BC\GymManagement\GymManagement\obj\Debug\net6.0-windows\GymManagement.dll
+E:\Hocky_1nam4\.net\QuanLyPhongGym_BC\GymManagement\GymManagement\obj\Debug\net6.0-windows\refint\GymManagement.dll
+E:\Hocky_1nam4\.net\QuanLyPhongGym_BC\GymManagement\GymManagement\obj\Debug\net6.0-windows\GymManagement.pdb
+E:\Hocky_1nam4\.net\QuanLyPhongGym_BC\GymManagement\GymManagement\obj\Debug\net6.0-windows\GymManagement.genruntimeconfig.cache
+E:\Hocky_1nam4\.net\QuanLyPhongGym_BC\GymManagement\GymManagement\obj\Debug\net6.0-windows\ref\GymManagement.dll
+E:\Hocky_1nam4\.net\QuanLyPhongGym_BC\GymManagement\GymManagement\obj\Debug\net6.0-windows\GymManagement.Properties.Resources.resources
+E:\Hocky_1nam4\.net\QuanLyPhongGym_BC\GymManagement\GymManagement\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\Hocky_1nam4\.net\QuanLyPhongGym_BC\GymManagement\GymManagement\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Hocky_1nam4\.net\QuanLyPhongGym_BC\GymManagement\GymManagement\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\Hocky_1nam4\.net\QuanLyPhongGym_BC\GymManagement\GymManagement\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\Hocky_1nam4\.net\QuanLyPhongGym_BC\GymManagement\GymManagement\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Hocky_1nam4\.net\QuanLyPhongGym_BC\GymManagement\GymManagement\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Hocky_1nam4\.net\QuanLyPhongGym_BC\GymManagement\GymManagement\obj\Debug\net6.0-windows\GymManagement.csproj.CopyComplete
+E:\Hocky_1nam4\.net\QuanLyPhongGym_BC\GymManagement\GymManagement\obj\Debug\net6.0-windows\GymManagement.GUI.frmThemHoiVien.resources
+E:\Hocky_1nam4\.net\QuanLyPhongGym_BC_Final\GymManagement\GymManagement\obj\Debug\net6.0-windows\GymManagement.csproj.AssemblyReference.cache
+E:\Hocky_1nam4\.net\QuanLyPhongGym_BC_Final\GymManagement\GymManagement\obj\Debug\net6.0-windows\GymManagement.Form1.resources
+E:\Hocky_1nam4\.net\QuanLyPhongGym_BC_Final\GymManagement\GymManagement\obj\Debug\net6.0-windows\GymManagement.GUI.frmMain.resources
+E:\Hocky_1nam4\.net\QuanLyPhongGym_BC_Final\GymManagement\GymManagement\obj\Debug\net6.0-windows\GymManagement.GUI.frmThemHoiVien.resources
+E:\Hocky_1nam4\.net\QuanLyPhongGym_BC_Final\GymManagement\GymManagement\obj\Debug\net6.0-windows\GymManagement.Properties.Resources.resources
+E:\Hocky_1nam4\.net\QuanLyPhongGym_BC_Final\GymManagement\GymManagement\obj\Debug\net6.0-windows\GymManagement.csproj.GenerateResource.cache
+E:\Hocky_1nam4\.net\QuanLyPhongGym_BC_Final\GymManagement\GymManagement\obj\Debug\net6.0-windows\GymManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hocky_1nam4\.net\QuanLyPhongGym_BC_Final\GymManagement\GymManagement\obj\Debug\net6.0-windows\GymManagement.AssemblyInfoInputs.cache
+E:\Hocky_1nam4\.net\QuanLyPhongGym_BC_Final\GymManagement\GymManagement\obj\Debug\net6.0-windows\GymManagement.AssemblyInfo.cs
+E:\Hocky_1nam4\.net\QuanLyPhongGym_BC_Final\GymManagement\GymManagement\obj\Debug\net6.0-windows\GymManagement.csproj.CoreCompileInputs.cache
+E:\Hocky_1nam4\.net\QuanLyPhongGym_BC_Final\GymManagement\GymManagement\obj\Debug\net6.0-windows\GymManagement.dll
+E:\Hocky_1nam4\.net\QuanLyPhongGym_BC_Final\GymManagement\GymManagement\obj\Debug\net6.0-windows\refint\GymManagement.dll
+E:\Hocky_1nam4\.net\QuanLyPhongGym_BC_Final\GymManagement\GymManagement\obj\Debug\net6.0-windows\GymManagement.pdb
+E:\Hocky_1nam4\.net\QuanLyPhongGym_BC_Final\GymManagement\GymManagement\bin\Debug\net6.0-windows\GymManagement.exe
+E:\Hocky_1nam4\.net\QuanLyPhongGym_BC_Final\GymManagement\GymManagement\bin\Debug\net6.0-windows\GymManagement.deps.json
+E:\Hocky_1nam4\.net\QuanLyPhongGym_BC_Final\GymManagement\GymManagement\bin\Debug\net6.0-windows\GymManagement.runtimeconfig.json
+E:\Hocky_1nam4\.net\QuanLyPhongGym_BC_Final\GymManagement\GymManagement\bin\Debug\net6.0-windows\GymManagement.dll
+E:\Hocky_1nam4\.net\QuanLyPhongGym_BC_Final\GymManagement\GymManagement\bin\Debug\net6.0-windows\GymManagement.pdb
+E:\Hocky_1nam4\.net\QuanLyPhongGym_BC_Final\GymManagement\GymManagement\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\Hocky_1nam4\.net\QuanLyPhongGym_BC_Final\GymManagement\GymManagement\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Hocky_1nam4\.net\QuanLyPhongGym_BC_Final\GymManagement\GymManagement\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\Hocky_1nam4\.net\QuanLyPhongGym_BC_Final\GymManagement\GymManagement\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\Hocky_1nam4\.net\QuanLyPhongGym_BC_Final\GymManagement\GymManagement\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Hocky_1nam4\.net\QuanLyPhongGym_BC_Final\GymManagement\GymManagement\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Hocky_1nam4\.net\QuanLyPhongGym_BC_Final\GymManagement\GymManagement\obj\Debug\net6.0-windows\GymManagement.csproj.CopyComplete
+E:\Hocky_1nam4\.net\QuanLyPhongGym_BC_Final\GymManagement\GymManagement\obj\Debug\net6.0-windows\GymManagement.genruntimeconfig.cache
+E:\Hocky_1nam4\.net\QuanLyPhongGym_BC_Final\GymManagement\GymManagement\obj\Debug\net6.0-windows\ref\GymManagement.dll
+E:\Hocky_1nam4\.net\QuanLyPhongGym_BC_Final\GymManagement\GymManagement\obj\Debug\net6.0-windows\GymManagement.GUI.frmThemSP.resources
+E:\Hocky_1nam4\.net\QuanLyPhongGym_BC_Final\GymManagement\GymManagement\obj\Debug\net6.0-windows\GymManagement.GUI.frmThemThietBi.resources
+E:\Hocky_2nam4\Đảm bảo chất lượng pm\DEMO\GymManagement\GymManagement\bin\Debug\net6.0-windows\GymManagement.exe
+E:\Hocky_2nam4\Đảm bảo chất lượng pm\DEMO\GymManagement\GymManagement\bin\Debug\net6.0-windows\GymManagement.deps.json
+E:\Hocky_2nam4\Đảm bảo chất lượng pm\DEMO\GymManagement\GymManagement\bin\Debug\net6.0-windows\GymManagement.runtimeconfig.json
+E:\Hocky_2nam4\Đảm bảo chất lượng pm\DEMO\GymManagement\GymManagement\bin\Debug\net6.0-windows\GymManagement.dll
+E:\Hocky_2nam4\Đảm bảo chất lượng pm\DEMO\GymManagement\GymManagement\bin\Debug\net6.0-windows\GymManagement.pdb
+E:\Hocky_2nam4\Đảm bảo chất lượng pm\DEMO\GymManagement\GymManagement\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\Hocky_2nam4\Đảm bảo chất lượng pm\DEMO\GymManagement\GymManagement\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Hocky_2nam4\Đảm bảo chất lượng pm\DEMO\GymManagement\GymManagement\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\Hocky_2nam4\Đảm bảo chất lượng pm\DEMO\GymManagement\GymManagement\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\Hocky_2nam4\Đảm bảo chất lượng pm\DEMO\GymManagement\GymManagement\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Hocky_2nam4\Đảm bảo chất lượng pm\DEMO\GymManagement\GymManagement\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Hocky_2nam4\Đảm bảo chất lượng pm\DEMO\GymManagement\GymManagement\obj\Debug\net6.0-windows\GymManagement.csproj.AssemblyReference.cache
+E:\Hocky_2nam4\Đảm bảo chất lượng pm\DEMO\GymManagement\GymManagement\obj\Debug\net6.0-windows\GymManagement.Form1.resources
+E:\Hocky_2nam4\Đảm bảo chất lượng pm\DEMO\GymManagement\GymManagement\obj\Debug\net6.0-windows\GymManagement.GUI.frmMain.resources
+E:\Hocky_2nam4\Đảm bảo chất lượng pm\DEMO\GymManagement\GymManagement\obj\Debug\net6.0-windows\GymManagement.GUI.frmThemHoiVien.resources
+E:\Hocky_2nam4\Đảm bảo chất lượng pm\DEMO\GymManagement\GymManagement\obj\Debug\net6.0-windows\GymManagement.GUI.frmThemSP.resources
+E:\Hocky_2nam4\Đảm bảo chất lượng pm\DEMO\GymManagement\GymManagement\obj\Debug\net6.0-windows\GymManagement.GUI.frmThemThietBi.resources
+E:\Hocky_2nam4\Đảm bảo chất lượng pm\DEMO\GymManagement\GymManagement\obj\Debug\net6.0-windows\GymManagement.Properties.Resources.resources
+E:\Hocky_2nam4\Đảm bảo chất lượng pm\DEMO\GymManagement\GymManagement\obj\Debug\net6.0-windows\GymManagement.csproj.GenerateResource.cache
+E:\Hocky_2nam4\Đảm bảo chất lượng pm\DEMO\GymManagement\GymManagement\obj\Debug\net6.0-windows\GymManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hocky_2nam4\Đảm bảo chất lượng pm\DEMO\GymManagement\GymManagement\obj\Debug\net6.0-windows\GymManagement.AssemblyInfoInputs.cache
+E:\Hocky_2nam4\Đảm bảo chất lượng pm\DEMO\GymManagement\GymManagement\obj\Debug\net6.0-windows\GymManagement.AssemblyInfo.cs
+E:\Hocky_2nam4\Đảm bảo chất lượng pm\DEMO\GymManagement\GymManagement\obj\Debug\net6.0-windows\GymManagement.csproj.CoreCompileInputs.cache
+E:\Hocky_2nam4\Đảm bảo chất lượng pm\DEMO\GymManagement\GymManagement\obj\Debug\net6.0-windows\GymManagement.csproj.CopyComplete
+E:\Hocky_2nam4\Đảm bảo chất lượng pm\DEMO\GymManagement\GymManagement\obj\Debug\net6.0-windows\GymManagement.dll
+E:\Hocky_2nam4\Đảm bảo chất lượng pm\DEMO\GymManagement\GymManagement\obj\Debug\net6.0-windows\refint\GymManagement.dll
+E:\Hocky_2nam4\Đảm bảo chất lượng pm\DEMO\GymManagement\GymManagement\obj\Debug\net6.0-windows\GymManagement.pdb
+E:\Hocky_2nam4\Đảm bảo chất lượng pm\DEMO\GymManagement\GymManagement\obj\Debug\net6.0-windows\GymManagement.genruntimeconfig.cache
+E:\Hocky_2nam4\Đảm bảo chất lượng pm\DEMO\GymManagement\GymManagement\obj\Debug\net6.0-windows\ref\GymManagement.dll
